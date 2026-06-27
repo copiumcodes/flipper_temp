@@ -8,11 +8,11 @@ App(
     stack_size=2 * 1024,
     fap_category="GPIO",
     # Optional values
-    # fap_version="0.1",
+    fap_version="1.0.0",
     fap_icon="temp.png",  # 10x10 1-bit PNG
-    # fap_description="A simple app",
-    # fap_author="CopiumCars",
-    # fap_weburl="https://github.com/user/template",
+    fap_description="DS18B20 temperature monitor with large UI and CSV logging",
+    fap_author="copiumcodes",
+    fap_weburl="https://github.com/copiumcodes/flipper_temp",
     fap_icon_assets="images",  # Image assets to compile for this application
 )
 

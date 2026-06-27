@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# ufbt/build artifacts
+build/
+dist/
+*.fap
+*.elf
+*.o
+
+# Editor/OS
+.DS_Store
+Thumbs.db
